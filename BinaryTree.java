@@ -10,7 +10,7 @@ public class BinaryTree {
     }
 
     /**
-     * Finds LCA of given two nodes in this binary search tree.
+     * Finds LCA of two given nodes in this binary search tree.
      * @param root
      * @param node1
      * @param node2
